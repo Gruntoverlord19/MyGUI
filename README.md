@@ -1,7 +1,8 @@
 # MyGUI - A Simple First Program
 
 ### Personalized Time and Date Appliaction 
-###### Written By: *Nick Garascia* on: *8/11/22*
+###### Written By: *Nick Garascia*
+###### Published on: *8/11/22*
 ***
 
 ##### Prompts for your name and returns the current time and date
